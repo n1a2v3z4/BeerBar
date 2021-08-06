@@ -13,6 +13,8 @@
 		D389696926B97DE8000A26A3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D389696726B97DE8000A26A3 /* Main.storyboard */; };
 		D389696B26B97DEC000A26A3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D389696A26B97DEC000A26A3 /* Assets.xcassets */; };
 		D389696E26B97DEC000A26A3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D389696C26B97DEC000A26A3 /* LaunchScreen.storyboard */; };
+		D389697626B9C215000A26A3 /* BearBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = D389697526B9C215000A26A3 /* BearBar.swift */; };
+		D389697826BA6550000A26A3 /* Bear.swift in Sources */ = {isa = PBXBuildFile; fileRef = D389697726BA6550000A26A3 /* Bear.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		D389696A26B97DEC000A26A3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D389696D26B97DEC000A26A3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D389696F26B97DEC000A26A3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D389697526B9C215000A26A3 /* BearBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BearBar.swift; sourceTree = "<group>"; };
+		D389697726BA6550000A26A3 /* Bear.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bear.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				D389696A26B97DEC000A26A3 /* Assets.xcassets */,
 				D389696C26B97DEC000A26A3 /* LaunchScreen.storyboard */,
 				D389696F26B97DEC000A26A3 /* Info.plist */,
+				D389697526B9C215000A26A3 /* BearBar.swift */,
+				D389697726BA6550000A26A3 /* Bear.swift */,
 			);
 			path = Bear;
 			sourceTree = "<group>";
@@ -140,6 +146,8 @@
 				D389696626B97DE8000A26A3 /* ViewController.swift in Sources */,
 				D389696226B97DE8000A26A3 /* AppDelegate.swift in Sources */,
 				D389696426B97DE8000A26A3 /* SceneDelegate.swift in Sources */,
+				D389697826BA6550000A26A3 /* Bear.swift in Sources */,
+				D389697626B9C215000A26A3 /* BearBar.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
