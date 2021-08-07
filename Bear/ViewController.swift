@@ -34,6 +34,7 @@ class ViewController: UIViewController {
     @IBAction func closedOfBarAction(_ sender: Any) {
         outputToTheScreen.text = bearBar.shared.closedToBar()
         Bear.itogInfoToBEar = ""
+        bearBar.infoOPurchaseAction = ""
         
     }
     @IBAction func StatisticAction(_ sender: Any) {

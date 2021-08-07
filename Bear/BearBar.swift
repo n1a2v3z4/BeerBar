@@ -72,7 +72,7 @@ class bearBar {
         }
         
         
-        return "За смену на склад поступило \(allBeer) бутылок пива\nПродано \(prodanoBootles) бутылок \nВыручка \(summBeerSold) рублей"
+        return "За все смены на склад поступило \(allBeer) бутылок пива\nПродано \(prodanoBootles) бутылок \nВыручка \(summBeerSold) рублей"
     }
 }
 
